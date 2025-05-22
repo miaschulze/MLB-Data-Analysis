@@ -25,7 +25,7 @@ This project analyzes 2024 MLB player performance by applying clustering and reg
 - <b>Elbow Method:</b> Applied to determine the optimal number of clusters (k) for KMeans.
 - <b>Linear Regression:</b> Used to examine relationships between key offensive metrics and predict On-base Plus Slugging (OPS). Included residual analysis to evaluate model performance.
 
-<h2>Showing Visualizations</h2>
+<h2>Visualizations</h2>
 
 <p align="center">
 
